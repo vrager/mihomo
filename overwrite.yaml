@@ -150,7 +150,7 @@ rules:
   - RULE-SET,telegram_domain,Telegram
   - RULE-SET,netflix_domain,NETFLIX
   - RULE-SET,disney_domain,DISNEY
-  - RULE-SET,hbogo,hbogo_domain,HBOGO
+  - RULE-SET,hbogo_domain,HBOGO
   - RULE-SET,paypal_domain,PayPal
   - RULE-SET,geolocation-!cn,节点选择
   - RULE-SET,cn_domain,全球直连
